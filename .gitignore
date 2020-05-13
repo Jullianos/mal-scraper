@@ -1,0 +1,7 @@
+/.idea
+/__pycache__
+/core/utility/__pycache__
+/download
+/Lib
+/Scripts
+/venv
